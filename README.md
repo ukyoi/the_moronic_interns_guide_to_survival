@@ -9,12 +9,7 @@
 </br>
 </br>
 </br>
-<<<<<<< HEAD
 <strong>DON'T PANIC</strong>
-=======
-<p style="font-size:20pt">DON'T PANIC</a>
->>>>>>> 01615c5e059c150852f20770795709dd4372c435
-</div>
 
 </br>
 
