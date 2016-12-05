@@ -1,10 +1,16 @@
-# 前言
+</br>
 
 献给和作者一样的低能住院医——
 
+</br>
+
 宇宙不仁，生活是种奢侈，生存才是现状
 
-<a style="font-size:20pt"><strong>DON'T PANIC</strong></a>
+</br>
+
+<a style="font-size:20pt">DON'T PANIC</a>
+
+</br>
 
 
 # 低能住院医存活指南
