@@ -1,17 +1,18 @@
 </br>
 
+<div align="center">
 献给和作者一样的低能住院医——
-
 </br>
-
+</br>
+</br>
 宇宙不仁，生活是种奢侈，生存才是现状
+</br>
+</br>
+</br>
+<p style="font-size:20pt">DON'T PANIC</a>
+</div>
 
 </br>
-
-<a style="font-size:20pt">DON'T PANIC</a>
-
-</br>
-
 
 # 低能住院医存活指南
 
