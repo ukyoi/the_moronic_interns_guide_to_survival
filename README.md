@@ -108,6 +108,8 @@
 
 “失去工致，失去很多；失去粗陋，失去一切。” ——托马斯・ukyoi・维德
 
+“All work and no play makes Jack a dull boy” ——佚名
+
 
 
 <!--
